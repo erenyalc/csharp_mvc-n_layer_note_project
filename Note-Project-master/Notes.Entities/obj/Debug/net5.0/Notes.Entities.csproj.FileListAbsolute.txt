@@ -1,0 +1,48 @@
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\bin\Debug\net5.0\Notes.Entities.deps.json
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\bin\Debug\net5.0\Notes.Entities.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\bin\Debug\net5.0\Notes.Entities.pdb
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\obj\Debug\net5.0\Notes.Entities.csproj.AssemblyReference.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\obj\Debug\net5.0\Notes.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\obj\Debug\net5.0\Notes.Entities.AssemblyInfoInputs.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\obj\Debug\net5.0\Notes.Entities.AssemblyInfo.cs
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\obj\Debug\net5.0\Notes.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\obj\Debug\net5.0\Notes.Entities.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\obj\Debug\net5.0\refint\Notes.Entities.dll
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\obj\Debug\net5.0\Notes.Entities.pdb
+C:\Users\Golt1on\source\repos\NotesProject\Notes.Entities\obj\Debug\net5.0\ref\Notes.Entities.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\bin\Debug\net5.0\Notes.Entities.deps.json
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\bin\Debug\net5.0\Notes.Entities.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\bin\Debug\net5.0\Notes.Entities.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.AssemblyInfo.cs
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\obj\Debug\net5.0\refint\Notes.Entities.dll
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.pdb
+C:\Users\mehme\Desktop\Yeni klasör\Note-Project-master\Notes.Entities\obj\Debug\net5.0\ref\Notes.Entities.dll
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\bin\Debug\net5.0\Notes.Entities.deps.json
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\bin\Debug\net5.0\Notes.Entities.dll
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\bin\Debug\net5.0\Notes.Entities.pdb
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.csproj.AssemblyReference.cache
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.AssemblyInfoInputs.cache
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.AssemblyInfo.cs
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.csproj.CoreCompileInputs.cache
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.dll
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\obj\Debug\net5.0\refint\Notes.Entities.dll
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.pdb
+C:\Users\mertg\source\repos\Katmanl--MVC-NoteApp-Startup-main\Note-Project-master\Notes.Entities\obj\Debug\net5.0\ref\Notes.Entities.dll
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\bin\Debug\net5.0\Notes.Entities.deps.json
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\bin\Debug\net5.0\Notes.Entities.dll
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\bin\Debug\net5.0\Notes.Entities.pdb
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.csproj.AssemblyReference.cache
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.AssemblyInfoInputs.cache
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.AssemblyInfo.cs
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.dll
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\obj\Debug\net5.0\refint\Notes.Entities.dll
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\obj\Debug\net5.0\Notes.Entities.pdb
+C:\Users\Erenyalc\source\repos\Note-Project-master\Notes.Entities\obj\Debug\net5.0\ref\Notes.Entities.dll
